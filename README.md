@@ -1,2 +1,2 @@
 # clipboard
-yet another lightweight clipboard
+a lightweight clipboard
